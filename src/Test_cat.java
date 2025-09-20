@@ -25,6 +25,7 @@ public class Test_cat {
 //без public
 class Cat {
 
+
     //Поля класса
     double weight;
     String name;
@@ -60,6 +61,7 @@ class Cat {
         this.age = age;
         this.color = color;
     }
+
 
     void setName(String name) {
         this.name = name;
